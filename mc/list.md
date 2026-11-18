@@ -13,5 +13,6 @@
 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++
-[!IMPORTANT]Disclaimer: not affiliated with Mojang AB.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++ :shipit:
+> [!IMPORTANT]
+> Disclaimer: not affiliated with Mojang AB.

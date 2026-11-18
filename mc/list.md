@@ -5,7 +5,7 @@
 ## 1. redstone_block.png
 ### Redstone block
 
-## 2. redstone_dust.png
+## 2. redstone.png
 ### Redstone dust
 
 ## 3. spyglass.png
@@ -14,5 +14,5 @@
 
 
 
-______________________________________________
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 ### Disclaimer: not affiliated with Mojang AB.

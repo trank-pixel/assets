@@ -10,9 +10,10 @@
 
 ## 3. spyglass.png
 ### Spyglass (inventory icon)
-
-
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++ :shipit:
+ㅤ
+ㅤ
+ㅤ
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ㅤ
 > [!IMPORTANT]
 > Disclaimer: not affiliated with Mojang AB.

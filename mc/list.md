@@ -15,4 +15,4 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-### Disclaimer: not affiliated with Mojang AB.
+[!IMPORTANT] Disclaimer: not affiliated with Mojang AB.

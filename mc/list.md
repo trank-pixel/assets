@@ -2,8 +2,8 @@
 
 
          
-## 1. redstone_block.png
-### Redstone block
+## 1. redstoney.png
+### Redstone block (3D)
      
 ## 2. redstone.png
 ### Redstone dust
